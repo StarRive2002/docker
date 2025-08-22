@@ -1,1 +1,1 @@
-q
+m.daocloud.io/docker.io/nginx:1.26.2
